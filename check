@@ -14,7 +14,7 @@ hdr = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML,
        'Accept-Encoding': 'none',
        'Accept-Language': 'en-US,en;q=0.8',
        'Connection': 'keep-alive'}
-venue ='CPCL' #this can be found by inspecting the element data-id for the venue where you would like to watch
+venue ='PVRB' #this can be found by inspecting the element data-id for the venue where you would like to watch
 show='01:30 PM' #just replace it with your prefered show timing
 delay=300 #timegap in seconds between 2 script runs
 
